@@ -1,0 +1,16 @@
+carousel-> 2.jpg
+<span>Photo by <a href="https://unsplash.com/@arunwithideas?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Arun Sharma</a> on <a href="https://unsplash.com/s/photos/face-indian?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+img->girl with book
+<span>Photo by <a href="https://unsplash.com/@vrahim11?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">vaibhav vivian</a> on <a href="https://unsplash.com/s/photos/hot-indian-girl?utm_source=unsplash&amp;utm_medium=re
+
+face1.jpg
+Photo by Shiny Diamond from Pexels
+
+male-1.jpg
+<span>Photo by <a href="https://unsplash.com/@aejazmemon?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Aejaz Memon</a> on <a href="https://unsplash.com/s/photos/fit-indian-man?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+
+
+wedding1.jpg
+<span>Photo by <a href="https://unsplash.com/@bfruitsia?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Bella Pon Fruitsia</a> on <a href="https://unsplash.com/s/photos/indian-female-face?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
